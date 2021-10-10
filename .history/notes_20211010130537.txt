@@ -1,0 +1,2 @@
+npx create-react-app generative-ui 
+npm install uuid (to generate uuid for e)

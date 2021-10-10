@@ -1,0 +1,12 @@
+Dummy out initial state of one dataset
+Start with page showing attributes
+Add/edit/delete attributes
+Page for editing attribute, showing values
+Add/edit/delete values
+Save json
+Way to scan directory against above:
+* show attributes on disk and offer as add with name edit
+* show attributes not on disk and offer to delete
+Separate scan for values initially:
+* show files on disk and offer as add with name edit
+* show attributes not on disk and offer to delete

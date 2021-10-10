@@ -1,0 +1,4 @@
+Dummy out initial state of one dataset
+Start with page showing attributes
+Add/edit/delete attributes
+Page for editing attribute, sowing values
